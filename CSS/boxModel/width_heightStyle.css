@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+}
+
+p{
+    background-color: antiquewhite;
+}
+
+h1{
+    background-color: aquamarine;
+}
+
+h2{
+    background-color: brown;
+    width: 240px;
+    /* width: 50%; Será relativo ao tamanho do body */
+    height: 80px;
+}
