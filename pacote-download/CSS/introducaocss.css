@@ -1,0 +1,112 @@
+body{
+    background-color: grey;
+}
+
+.color{
+    color: cyan;
+}
+
+.fontF{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fontStyle1{
+    font-style: italic;
+}
+
+.fontStyle2{
+    font-style: unset;
+}
+
+.fontStyle3{
+    font-style: initial;
+}
+
+.fontStyle4{
+    font-style: oblique;
+}
+
+.fontV1{
+    font-variant: small-caps;
+}
+
+.fontV2{
+    font-variant: initial;
+}
+
+.fontV3{
+    font-variant: inherit;
+}
+
+.fontSz{
+    font-size: 40px;
+}
+
+.fontSz2{
+    font-size: 14px;
+}
+
+.textT1{
+    text-transform: lowercase;
+}
+
+.textT2{
+    text-transform: uppercase;
+}
+
+
+.textT3{
+    text-transform: capitalize;
+}
+
+.textA1{
+    text-align: center;
+}
+
+.textA2{
+    text-align: right;
+}
+
+.textA3{
+    text-align: justify;
+}
+
+.textA4{
+    text-align: end;
+}
+
+.textA5{
+    text-align: left;
+}
+
+.textA6{
+    text-align: start;
+}
+
+.textDeco1{
+    text-decoration: overline;
+}
+
+.textDeco2{
+    text-decoration: underline dashed;
+}
+
+.textDeco3{
+    text-decoration: underline;
+}
+
+.textDeco4{
+    text-decoration: line-through;
+}
+
+.textDeco5{
+    text-decoration: underline dotted;
+}
+
+.textDeco6{
+    text-decoration: underline red;
+}
+
+.textDeco7{
+    text-decoration: overline wavy;
+}
