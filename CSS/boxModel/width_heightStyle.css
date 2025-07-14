@@ -5,10 +5,16 @@ body{
 
 p{
     background-color: antiquewhite;
+    /* o padding tem a ordem semelhante a de um relógio */
+    padding: 50px 40px 30px 20px;
+    /* ou seja: top, right, bottom e left */
 }
 
 h1{
     background-color: aquamarine;
+    padding: 18px;
+    /* o margin funionará da mesma forma que o padding */
+    margin: 50px 40px 30px 20px;
 }
 
 h2{
@@ -16,4 +22,5 @@ h2{
     width: 240px;
     /* width: 50%; Será relativo ao tamanho do body */
     height: 80px;
+    margin: 50 0 0 100;
 }
