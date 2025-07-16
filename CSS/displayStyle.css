@@ -1,0 +1,36 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    width: 50%;
+    background-color: rgb(179, 179, 179);
+}
+
+h1{
+    border: 2px solid greenyellow;
+    width: 25%;
+}
+
+a{
+    display: inline-block;
+    background-color: aqua;
+    padding: 12px;
+}
+
+strong{
+    background-color: brown;
+    display: inline-block;
+    height: 50px;
+    width: 60%;
+}
+
+em{
+    display: block;
+    background-color: antiquewhite;
+}
+
+i{
+    visibility: hidden;
+}
+
