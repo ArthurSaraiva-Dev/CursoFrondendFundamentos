@@ -1,0 +1,23 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    width: 500px;
+    background-color: gray;
+}
+
+.p1{
+    padding: 25px;
+}
+
+.p2{
+    padding: 25px;
+    border: 10px solid crimson;
+}
+
+.p3{
+    padding: 25px;
+    border: 10px solid crimson;
+    box-sizing: border-box;
+}
